@@ -11,6 +11,7 @@ Por que usar REST API?
 	Demanda de mercado -> REST ajuda muito na integração, pois usam o mesmo modelo estrutural
 
 REGRAS:
+
 	CLIENTE-SERVIDOR: Podem evoluir separadamente
 	STATELESS: Aplicação sem estado. Protocolo HTTP, a requisição deve conter tudo que precisa para ser processado
 	CACHE: Fazer cache das requisões. Guardar sempre as informações quando repetidas vezes - Memória de consulta rápida. Diminui a quantidade de consulta no servidor
