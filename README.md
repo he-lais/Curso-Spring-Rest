@@ -19,7 +19,7 @@ REGRAS:
 	SITEMAS EM CAMADAS: Entre o cliente que hospeda e o que fornece API,pode existir além dessas
 	CÓDIGO SOB DEMANDA
 
-MODELO ESTRUTRAL HEST, INDEPENDENTE DE PROTOCOLOS, MAS O MAIS COMUM É O HTTP
+MODELO ESTRUTRAL REST, INDEPENDENTE DE PROTOCOLOS, MAS O MAIS COMUM É O HTTP
 
 HTTP -> REQUISIÇÃO -> RESPOSTA (Faz entender o cliente e servidor)
 
@@ -51,6 +51,7 @@ SPRING REST O QUE É?
 	Apenas um termo. Spring é um conjunto de projetos que resolvem problemas no dia a dia. Ajuda a criar aplicações com facilidades.
 	Spring é modular, open source, tem uma grande comunidade, popularidade.	
 	Site: spring.io -> 38 min
+	
 	
 
 
