@@ -4,6 +4,7 @@
 REST -> Formaliza um conjunto de Constraits (Regras)
 
 Por que usar REST API?
+
 	Separação entre cliente e servidor
 	Escalabilidade
 	É independente de linguagem de programação
