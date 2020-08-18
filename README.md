@@ -50,7 +50,29 @@ SPRING REST O QUE É?
 
 	Apenas um termo. Spring é um conjunto de projetos que resolvem problemas no dia a dia. Ajuda a criar aplicações com facilidades.
 	Spring é modular, open source, tem uma grande comunidade, popularidade.	
-	Site: spring.io -> 38 min
+	Site: spring.io -> 
+	Após instalar o STS -> 
+		Os projetos MAVEN tem dependencias e as gerencia 
+		POM -> Poject object model, é um arquivo maven
+		RODAR E EMPACOTAR -> RUN AS BUILD MAVEN - preencher: "clean package"
+		CRIAR ENDPOINTS: Pontos para fazer operações no cliente
+		
+USANDO O POSTMAN -> TESTA AS API'S
+	Criar uma nova coleção e adcionar um método GET
+	
+CLASSE CONTROLADORA -> Responsável por receber as requisições externas e responder
+
+HTTP STATUS DOS RESULTADOS: https://httpstatuses.com/
+
+DEV TOLLS -> SPRING DEV TOLLS, para rodar automático
+
+COLOCAR UMA NOVA DEPENDÊNCIA PARA QUE A REQUISIÇÃO TAMBÉM ACEITE XML, AALÉM DE APENAS JSON (NO ARQUIVO POM):
+	<dependency>
+		<groupId> com.springframework.boot</groupId>
+		<artifactId>jackson-dataformat-xml</artifactId>
+	</dependency>
+		
+		
 	
 	
 
